@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[41],{GpHv:function(t,n,a){"use strict";a.r(n);var i=a("2A+t");n.default=function(t){var n=t.variant,a=void 0===n?"default":n,e=t.text;return Object(i.b)("div",{sx:{variant:"rich-text."+a}},e)}}}]);
+//# sourceMappingURL=41-2966fb7c3d80ee5aadc1.js.map

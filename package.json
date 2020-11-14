@@ -1,0 +1,46 @@
+{
+  "name": "marinbrasil.store",
+  "private": true,
+  "version": "0.0.0",
+  "dependencies": {
+    "@vtex/gatsby-plugin-graphql": "^0.120.0",
+    "@vtex/gatsby-plugin-i18n": "^0.120.0",
+    "@vtex/gatsby-plugin-vtex-nginx": "^0.120.0",
+    "@vtex/gatsby-theme-vtex": "^0.122.0",
+    "@vtex/store-ui": "^0.122.0",
+    "aws-lambda": "^1.0.6",
+    "axios": "^0.21.0",
+    "babel-preset-gatsby": "^0.5.7",
+    "gatsby": "^2.24.64",
+    "gatsby-plugin-manifest": "^2.4.25",
+    "gatsby-plugin-netlify": "^2.3.14",
+    "gatsby-plugin-robots-txt": "^1.5.1",
+    "gatsby-source-filesystem": "^2.3.26",
+    "query-string": "^6.13.7",
+    "react": "^0.0.0-experimental-7f28234f8",
+    "react-dom": "^0.0.0-experimental-7f28234f8"
+  },
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.12.1",
+    "@vtex/lighthouse-config": "^0.99.0",
+    "@vtex/prettier-config": "^0.3.1",
+    "@vtex/tsconfig": "^0.5.0",
+    "eslint-config-vtex-react": "^6.7.8",
+    "netlify-lambda": "^2.0.1",
+    "prettier": "^2.1.1",
+    "typescript": "^4.0.2"
+  },
+  "license": "MIT",
+  "scripts": {
+    "lambda": "netlify-lambda build api",
+    "build": "GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --log-pages",
+    "develop": "gatsby develop",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "docker:serve": "sed -i -e 's/\\$PORT/80/' public/nginx.conf && docker run --rm --name local_nginx -v \"$PWD/public/nginx.conf:/etc/nginx/nginx.conf\" -v \"$PWD/public:/etc/nginx/html\" -p 80:80 -it nginx:latest",
+    "clean": "gatsby clean",
+    "format": "prettier --write \"src/*.{ts,js,tsx,jsx,json}\"",
+    "lint": "eslint src --ext .js,.ts,.jsx,.tsx",
+    "test:lhci": "lhci autorun"
+  }
+}

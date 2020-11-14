@@ -1,0 +1,17 @@
+[
+  { "to": "/cozinha", "text": "Cozinha" },
+  { "to": "/sala-de-jantar", "text": "Sala de Jantar" },
+  { "to": "/churrasco", "text": "Churrasco" },
+  { "to": "/jardim-e-agricultura", "text": "Jardim e Agricultura" },
+  { "to": "/reforma-e-construcao", "text": "Reforma e Construção" },
+  { "to": "/infantil", "text": "Infantil" },
+  { "to": "/automotivo", "text": "Automotivo" },
+  { "to": "/moveis", "text": "Móveis" },
+  { "to": "/area-de-servico", "text": "Área de Serviço" },
+  { "to": "/cha-e-cafe", "text": "Chá e Café" },
+  { "to": "/eletrodomesticos", "text": "Eletrodomésticos" },
+  { "to": "/cubas-e-tanques", "text": "Cubas e Tanques" },
+  { "to": "/lixeiras", "text": "Lixeiras" },
+  { "to": "/eletroportateis", "text": "Eletroportáteis" },
+  { "to": "/outlet", "text": "Outlet" }
+]

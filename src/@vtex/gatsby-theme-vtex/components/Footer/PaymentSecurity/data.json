@@ -1,0 +1,54 @@
+[
+  {
+    "alt": "Visa",
+    "src":
+      "https://marinbrasil.vtexassets.com/assets/faststore/images/visa___0a66c88b8bb3f5f7eaf97c668bc3418a.png"
+  },
+  {
+    "alt": "Amex",
+    "src":
+      "https://marinbrasil.vtexassets.com/assets/faststore/images/amex___b4c027829ff723bee67d6adbaab0e305.png"
+  },
+  {
+    "alt": "Elo",
+    "src":
+      "https://marinbrasil.vtexassets.com/assets/faststore/images/elo___dbb13722634566cc06c08962d2abfe79.png"
+  },
+  {
+    "alt": "Mastercard",
+    "src":
+      "https://marinbrasil.vtexassets.com/assets/faststore/images/mastercard___6f96c15de045a42d6aa41f5f2f1701c8.png"
+  },
+  {
+    "alt": "Diners Club",
+    "src":
+      "https://marinbrasil.vtexassets.com/assets/faststore/images/dinners___84f7d00ab00137631fa68ba1f93d0aa8.png"
+  },
+  {
+    "alt": "Aura",
+    "src":
+      "https://marinbrasil.vtexassets.com/assets/faststore/images/aura___32cc316792fd395da888bca07e1dd7e0.png"
+  },
+  {
+    "alt": "Hipercard",
+    "src":
+      "https://marinbrasil.vtexassets.com/assets/faststore/images/hipercard___ff78a5def5ad1d1c164ae33d7fce0235.png"
+  },
+  {
+    "alt": "Boleto",
+    "src":
+      "https://marinbrasil.vtexassets.com/assets/faststore/images/boleto___1e421da042460e56e02261df37114a69.png"
+  },
+  {
+    "alt": "Maestro",
+    "src":
+      "https://marinbrasil.vtexassets.com/assets/faststore/images/maestro___450117396acca72540c845a4cd3b7672.png"
+  },
+  {
+    "alt": "Visa Electron",
+    "src":
+      "https://marinbrasil.vtexassets.com/assets/faststore/images/visaelectron___7f579fb4603be9cec7d9027e0edf36f3.png"
+  }
+]
+
+

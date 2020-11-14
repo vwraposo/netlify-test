@@ -1,0 +1,14 @@
+[build]
+  command = "yarn lambda"
+  functions = "functions"
+
+[[plugins]]
+  package = "netlify-plugin-gatsby-cache"
+
+[context.deploy-preview.environment]
+  NETLIFY_HOST = "https://deploy-preview-178--marinbrasil.netlify.app"
+
+[context.production.environment]
+  NETLIFY_HOST = "https://marinbrasil.netlify.app"
+
+

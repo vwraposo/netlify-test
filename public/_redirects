@@ -1,0 +1,10 @@
+
+## Created with gatsby-plugin-netlify
+/api/io/*  https://master--marinbrasil.myvtex.com/:splat  200  headers=[object Object]
+/api/*  https://marinbrasil.vtexcommercestable.com.br/api/:splat  200  headers=[object Object]
+/checkout/*  https://marinbrasil.vtexcommercestable.com.br/checkout/:splat  200
+/arquivos/*  https://marinbrasil.vtexassets.com/arquivos/:splat  200
+/files/*  https://marinbrasil.vtexassets.com/files/:splat  200
+/graphql/*  https://master--marinbrasil.myvtex.com/graphql/:splat  200
+/:slug/p  /__client-side-product__/p  200
+/*  /__client-side-search__  200

@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://marinbrasil.netlify.app/sitemap.xml
+Host: https://marinbrasil.netlify.app

@@ -1,0 +1,735 @@
+## Created with gatsby-plugin-netlify
+
+/preview
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Content-Security-Policy: frame-src https://*.myvtex.com/
+  Content-Security-Policy: frame-src https://*.myvtex.com/
+/commons-760b05947fc9996fe9d8.js
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Cache-Control: public, max-age=31536000, immutable
+/f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-vtex-gatsby-theme-vtex-src-templates-search-tsx-c19e1118cc802da53f75.js
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-vtex-gatsby-theme-vtex-src-templates-product-tsx-6df32e423f6ef3aada6d.js
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Cache-Control: public, max-age=31536000, immutable
+/2bcd2869b274cce57bcd448961314a40e5ce21b1-41f8f37d519ad467feb2.js
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Cache-Control: public, max-age=31536000, immutable
+/component---cache-vtex-cms-04-b-10074-8-f-17-40-e-1-9-d-78-c-0-cf-469-c-10-ec-copy-tsx-4a0a35e0c19bc7be23f9.js
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Cache-Control: public, max-age=31536000, immutable
+/658bb9cd039abfe2dca621eabc453257701fbe6e-4d7a1107a83e09bff1d5.js
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-vtex-gatsby-theme-vtex-pages-404-tsx-b65e8ae7f9d11ee3f156.js
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-vtex-gatsby-theme-vtex-src-pages-account-tsx-e26cdcccc9c632f4553b.js
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Cache-Control: public, max-age=31536000, immutable
+/eee67b56d630473182390675623206dc02166a2f-ca46d4c286af5ee92534.js
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-vtex-gatsby-theme-vtex-pages-index-tsx-cdba2e9f3336015b5952.js
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-vtex-gatsby-theme-vtex-src-pages-login-tsx-02506a08bba5d028b253.js
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-vtex-gatsby-theme-vtex-src-pages-preview-tsx-e46247c263707514f3fa.js
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-institucional-contato-tsx-f0160505197e10a1ac14.js
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-institucional-politica-de-compra-tsx-f4ec9db381b3f1283839.js
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-institucional-quem-somos-tsx-f63bda63b46a2f174c0f.js
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-institucional-seguranca-e-privacidade-tsx-acf2b38a2561dd2a4a7e.js
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-institucional-trocas-e-devolucoes-tsx-6b6fdf4b102c979b04b2.js
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-462ace1566b5b0753234.js
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Cache-Control: public, max-age=31536000, immutable
+/framework-5c2373c55ea3d58c06ed.js
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Cache-Control: public, max-age=31536000, immutable
+/app-417f75530c25b9dc570a.js
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Cache-Control: no-cache
+/cozinha
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-search-tsx-c19e1118cc802da53f75.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/cozinha/page-data.json>; rel=preload; as=fetch; crossorigin
+/sala-de-jantar
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-search-tsx-c19e1118cc802da53f75.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/sala-de-jantar/page-data.json>; rel=preload; as=fetch; crossorigin
+/churrasco
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-search-tsx-c19e1118cc802da53f75.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/churrasco/page-data.json>; rel=preload; as=fetch; crossorigin
+/jardim-e-agricultura
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-search-tsx-c19e1118cc802da53f75.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/jardim-e-agricultura/page-data.json>; rel=preload; as=fetch; crossorigin
+/reforma-e-construcao
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-search-tsx-c19e1118cc802da53f75.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/reforma-e-construcao/page-data.json>; rel=preload; as=fetch; crossorigin
+/infantil
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-search-tsx-c19e1118cc802da53f75.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/infantil/page-data.json>; rel=preload; as=fetch; crossorigin
+/automotivo
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-search-tsx-c19e1118cc802da53f75.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/automotivo/page-data.json>; rel=preload; as=fetch; crossorigin
+/moveis
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-search-tsx-c19e1118cc802da53f75.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/moveis/page-data.json>; rel=preload; as=fetch; crossorigin
+/area-de-servico
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-search-tsx-c19e1118cc802da53f75.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/area-de-servico/page-data.json>; rel=preload; as=fetch; crossorigin
+/cha-e-cafe
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-search-tsx-c19e1118cc802da53f75.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/cha-e-cafe/page-data.json>; rel=preload; as=fetch; crossorigin
+/outlet
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-search-tsx-c19e1118cc802da53f75.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/outlet/page-data.json>; rel=preload; as=fetch; crossorigin
+/eletrodomesticos
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-search-tsx-c19e1118cc802da53f75.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/eletrodomesticos/page-data.json>; rel=preload; as=fetch; crossorigin
+/cubas-e-tanques
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-search-tsx-c19e1118cc802da53f75.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/cubas-e-tanques/page-data.json>; rel=preload; as=fetch; crossorigin
+/lixeiras
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-search-tsx-c19e1118cc802da53f75.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/lixeiras/page-data.json>; rel=preload; as=fetch; crossorigin
+/eletroportateis
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-search-tsx-c19e1118cc802da53f75.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/eletroportateis/page-data.json>; rel=preload; as=fetch; crossorigin
+/cooktop-tramontina-5q-gas-vidro-penta-5gg-tri-70-94708201/p
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-product-tsx-6df32e423f6ef3aada6d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/cooktop-tramontina-5q-gas-vidro-penta-5gg-tri-70-94708201/p/page-data.json>; rel=preload; as=fetch; crossorigin
+/tanque-tramontina-hera-23-l-em-aco-inox-acetinado-40-x-40-cm-com-valvula-94403107/p
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-product-tsx-6df32e423f6ef3aada6d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tanque-tramontina-hera-23-l-em-aco-inox-acetinado-40-x-40-cm-com-valvula-94403107/p/page-data.json>; rel=preload; as=fetch; crossorigin
+/conjunto-de-facas-para-churrasco-3-pecas-tramontina-ipanema-com-laminas-em-aco-inox-e-cabos-de-polipropileno-laranja-23360345/p
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-product-tsx-6df32e423f6ef3aada6d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/conjunto-de-facas-para-churrasco-3-pecas-tramontina-ipanema-com-laminas-em-aco-inox-e-cabos-de-polipropileno-laranja-23360345/p/page-data.json>; rel=preload; as=fetch; crossorigin
+/cadeira-tramontina-sissi-azul-com-bracos-em-polipropileno-e-fibra-de-vidro-92045570/p
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-product-tsx-6df32e423f6ef3aada6d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/cadeira-tramontina-sissi-azul-com-bracos-em-polipropileno-e-fibra-de-vidro-92045570/p/page-data.json>; rel=preload; as=fetch; crossorigin
+/cuba-tramontina-morgana-undermount-69-x-49-cm-em-aco-inox-acetinado-com-valvula-outlet-94900477/p
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-product-tsx-6df32e423f6ef3aada6d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/cuba-tramontina-morgana-undermount-69-x-49-cm-em-aco-inox-acetinado-com-valvula-outlet-94900477/p/page-data.json>; rel=preload; as=fetch; crossorigin
+/banqueta-alta-naturalle-quadra-branca-tramontina-91454072/p
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-product-tsx-6df32e423f6ef3aada6d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/banqueta-alta-naturalle-quadra-branca-tramontina-91454072/p/page-data.json>; rel=preload; as=fetch; crossorigin
+/banqueta-media-naturalle-quadra-branca-tramontina-91454047/p
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-product-tsx-6df32e423f6ef3aada6d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/banqueta-media-naturalle-quadra-branca-tramontina-91454047/p/page-data.json>; rel=preload; as=fetch; crossorigin
+/banqueta-media-naturalle-quadra-amarela-tramontina-91451047/p
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-product-tsx-6df32e423f6ef3aada6d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/banqueta-media-naturalle-quadra-amarela-tramontina-91451047/p/page-data.json>; rel=preload; as=fetch; crossorigin
+/cuba-de-embutir-tramontina-ceres-40-bl-em-aco-inox-acetinado-40-x-35-x-19-cm/p
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-product-tsx-6df32e423f6ef3aada6d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/cuba-de-embutir-tramontina-ceres-40-bl-em-aco-inox-acetinado-40-x-35-x-19-cm/p/page-data.json>; rel=preload; as=fetch; crossorigin
+/cadeira-tramontina-victoria-com-bracos-em-polipropileno-branco-92044010/p
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-product-tsx-6df32e423f6ef3aada6d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/cadeira-tramontina-victoria-com-bracos-em-polipropileno-branco-92044010/p/page-data.json>; rel=preload; as=fetch; crossorigin
+/cuba-de-embutir-tramontina-lavinia-48-bl-em-aco-inox-acetinado-48-x-34-x-18-cm-outlet-com-valvula-94900457/p
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-product-tsx-6df32e423f6ef3aada6d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/cuba-de-embutir-tramontina-lavinia-48-bl-em-aco-inox-acetinado-48-x-34-x-18-cm-outlet-com-valvula-94900457/p/page-data.json>; rel=preload; as=fetch; crossorigin
+/panela-de-pressao-tramontina-amarela-em-aco-inox-fundo-triplo-24-cm-6-litros-62518248/p
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-product-tsx-6df32e423f6ef3aada6d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/panela-de-pressao-tramontina-amarela-em-aco-inox-fundo-triplo-24-cm-6-litros-62518248/p/page-data.json>; rel=preload; as=fetch; crossorigin
+/faca-para-pao-7--tramontina-22215907/p
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-product-tsx-6df32e423f6ef3aada6d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/faca-para-pao-7--tramontina-22215907/p/page-data.json>; rel=preload; as=fetch; crossorigin
+/jogo-de-facas-tramontina-plenus-com-laminas-em-aco-inox-e-cabos-de-polipropileno-preto-4-pecas-23498029/p
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-product-tsx-6df32e423f6ef3aada6d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/jogo-de-facas-tramontina-plenus-com-laminas-em-aco-inox-e-cabos-de-polipropileno-preto-4-pecas-23498029/p/page-data.json>; rel=preload; as=fetch; crossorigin
+/jogo-de-facas-tramontina-cronos-com-laminas-e-cabos-em-aco-inox-e-suporte-em-madeira-6-pecas-24099078/p
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-product-tsx-6df32e423f6ef3aada6d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/jogo-de-facas-tramontina-cronos-com-laminas-e-cabos-em-aco-inox-e-suporte-em-madeira-6-pecas-24099078/p/page-data.json>; rel=preload; as=fetch; crossorigin
+/jogo-de-panelas-4-pecas-aco-inox-rotonda-ceramic-tramontina-65460020/p
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-product-tsx-6df32e423f6ef3aada6d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/jogo-de-panelas-4-pecas-aco-inox-rotonda-ceramic-tramontina-65460020/p/page-data.json>; rel=preload; as=fetch; crossorigin
+/pipoqueira-tramontina-my-lovely-kitchen-rosa-em-aluminio-starflon-max-20-cm-35-litros-27807049/p
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-product-tsx-6df32e423f6ef3aada6d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/pipoqueira-tramontina-my-lovely-kitchen-rosa-em-aluminio-starflon-max-20-cm-35-litros-27807049/p/page-data.json>; rel=preload; as=fetch; crossorigin
+/__client-side-product__/p
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-product-tsx-6df32e423f6ef3aada6d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/__client-side-product__/p/page-data.json>; rel=preload; as=fetch; crossorigin
+/__client-side-search__
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </f475a83f1136ea4d67e57964dd7f4d91be1c21c3-e2e8478112275971d459.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-templates-search-tsx-c19e1118cc802da53f75.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/__client-side-search__/page-data.json>; rel=preload; as=fetch; crossorigin
+/demo
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </2bcd2869b274cce57bcd448961314a40e5ce21b1-41f8f37d519ad467feb2.js>; rel=preload; as=script
+  Link: </component---cache-vtex-cms-04-b-10074-8-f-17-40-e-1-9-d-78-c-0-cf-469-c-10-ec-copy-tsx-4a0a35e0c19bc7be23f9.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/demo/page-data.json>; rel=preload; as=fetch; crossorigin
+/404/
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </658bb9cd039abfe2dca621eabc453257701fbe6e-4d7a1107a83e09bff1d5.js>; rel=preload; as=script
+  Link: </component---src-vtex-gatsby-theme-vtex-pages-404-tsx-b65e8ae7f9d11ee3f156.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
+/account/
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-pages-account-tsx-e26cdcccc9c632f4553b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/account/page-data.json>; rel=preload; as=fetch; crossorigin
+/
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </eee67b56d630473182390675623206dc02166a2f-ca46d4c286af5ee92534.js>; rel=preload; as=script
+  Link: </658bb9cd039abfe2dca621eabc453257701fbe6e-4d7a1107a83e09bff1d5.js>; rel=preload; as=script
+  Link: </component---src-vtex-gatsby-theme-vtex-pages-index-tsx-cdba2e9f3336015b5952.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/login/
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-pages-login-tsx-02506a08bba5d028b253.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/login/page-data.json>; rel=preload; as=fetch; crossorigin
+/preview/
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Content-Security-Policy: frame-src https://*.myvtex.com/
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </component---node-modules-vtex-gatsby-theme-vtex-src-pages-preview-tsx-e46247c263707514f3fa.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/preview/page-data.json>; rel=preload; as=fetch; crossorigin
+/404.html
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </658bb9cd039abfe2dca621eabc453257701fbe6e-4d7a1107a83e09bff1d5.js>; rel=preload; as=script
+  Link: </component---src-vtex-gatsby-theme-vtex-pages-404-tsx-b65e8ae7f9d11ee3f156.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
+/institucional/contato/
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </component---src-pages-institucional-contato-tsx-f0160505197e10a1ac14.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/institucional/contato/page-data.json>; rel=preload; as=fetch; crossorigin
+/institucional/politica-de-compra/
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </component---src-pages-institucional-politica-de-compra-tsx-f4ec9db381b3f1283839.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/institucional/politica-de-compra/page-data.json>; rel=preload; as=fetch; crossorigin
+/institucional/quem-somos/
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </component---src-pages-institucional-quem-somos-tsx-f63bda63b46a2f174c0f.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/institucional/quem-somos/page-data.json>; rel=preload; as=fetch; crossorigin
+/institucional/seguranca-e-privacidade/
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </component---src-pages-institucional-seguranca-e-privacidade-tsx-acf2b38a2561dd2a4a7e.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/institucional/seguranca-e-privacidade/page-data.json>; rel=preload; as=fetch; crossorigin
+/institucional/trocas-e-devolucoes/
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Link: </webpack-runtime-462ace1566b5b0753234.js>; rel=preload; as=script
+  Link: </framework-5c2373c55ea3d58c06ed.js>; rel=preload; as=script
+  Link: </app-417f75530c25b9dc570a.js>; rel=preload; as=script
+  Link: </commons-760b05947fc9996fe9d8.js>; rel=preload; as=script
+  Link: </component---src-pages-institucional-trocas-e-devolucoes-tsx-6b6fdf4b102c979b04b2.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/institucional/trocas-e-devolucoes/page-data.json>; rel=preload; as=fetch; crossorigin
